@@ -1,5 +1,5 @@
 
-# Project Title
+# Iterator Pattern
 
 
 Collections are one of the most used data types in programming. Nonetheless, a collection is just a container for a group of objects.
